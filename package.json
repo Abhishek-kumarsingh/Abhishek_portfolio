@@ -1,11 +1,12 @@
 {
-  "name": "3dfolio",
+  "homepage": "https://Abhishek-kumarsingh.github.io/Abhishek_portfolio",
+  "name": "New folder",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Abhishek kumar singh.github.io/Abhishek_portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
